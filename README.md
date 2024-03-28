@@ -1,2 +1,2 @@
-# Bullet-Hell_RealTutsGMLTutorial
-Bullet Hell made using Java GUI following RealTutsGMLTutorial
+# Bullet Hell (RealTutsGMLTutorial)
+Bullet Hell that was made using Java GUI following RealTutsGMLTutorial
